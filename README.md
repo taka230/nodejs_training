@@ -1,7 +1,7 @@
 # nodejsの勉強用
 
 ```
-$ git clone https://github.com/osonoi/nodejs_traonning.git
+$ git clone https://github.com/osonoi/nodejs_training.git
 $ cd nodejs_training
 ```
 
